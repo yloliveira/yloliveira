@@ -1,4 +1,9 @@
 <a href="https://www.linkedin.com/in/yloliveira/" target="_blank">![LinkedIn - Yan Oliveira](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=yloliveira&theme=dracula&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yloliveira&theme=dracula&hide=ruby" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/?username=yloliveira&theme=radical&show_icons=true&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yloliveira&theme=radical&layout=compact&hide=ruby" />
+</a>
