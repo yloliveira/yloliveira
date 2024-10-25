@@ -1,9 +1,20 @@
 <a href="https://www.linkedin.com/in/yloliveira/" target="_blank">![LinkedIn - Yan Oliveira](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)</a>
 
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
-<a href="https://github.com/yloliveira?tab=repositories">
-  <img height="150px" align="center" src="https://github-readme-stats-six-eta-87.vercel.app/api/?username=yloliveira&theme=radical&show_icons=true&hide=issues" />
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yloliveira&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yloliveira&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,go,swift,java,py,dotnet,css,html,react,nextjs,nodejs,jquery,laravel,redux,express,jest,cypress,styledcomponents,tailwind,bootstrap,graphql,mongodb,postgres,firebase,prisma,redis,sqlite,sequelize,git,docker,aws,githubactions,kubernetes" />
 </a>
-<a href="https://github.com/yloliveira?tab=repositories">
-  <img height="150px" align="center" src="https://github-readme-stats-six-eta-87.vercel.app/api/top-langs/?username=yloliveira&theme=radical&layout=compact&hide=ruby" />
-</a>
+  <br />
+
+  </div>
+
+##
+
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=yloliveira&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
